@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hakami1024/.gradle/caches/modules-2/files-2.1/org.osmdroid/osmdroid-android/4.3/2fcf7bc3cb27daa6e67c8990ea418d19f6b5b296/osmdroid-android-4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2fcf7bc3cb27daa6e67c8990ea418d19f6b5b296">
+        <dex dex="/home/hakami1024/AndroidStudioProjects/computescrollbug1/app/build/intermediates/pre-dexed/debug/osmdroid-android-4.3-05b31b2da3c3483fc40aac098966535c7961bec2.jar" />
+    </item>
+    <item
+        jar="/home/hakami1024/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-android/1.7.7/f1c194a0753f5005eb57d69bccc7091460edd15a/slf4j-android-1.7.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f1c194a0753f5005eb57d69bccc7091460edd15a">
+        <dex dex="/home/hakami1024/AndroidStudioProjects/computescrollbug1/app/build/intermediates/pre-dexed/debug/slf4j-android-1.7.7-2b956d5d0ee0469a66e1d95bea25228ad1f86f07.jar" />
+    </item>
+    <item
+        jar="/home/hakami1024/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.7/2b8019b6249bb05d81d3a3094e468753e2b21311/slf4j-api-1.7.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2b8019b6249bb05d81d3a3094e468753e2b21311">
+        <dex dex="/home/hakami1024/AndroidStudioProjects/computescrollbug1/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.7-3df983b9e46c5b917ca3fccac3e7bc8e89daa3fe.jar" />
+    </item>
+
+</items>
